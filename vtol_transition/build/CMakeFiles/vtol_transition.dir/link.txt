@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/vtol_transition.dir/vtol_transition.cpp.o -o vtol_transition  /usr/lib/libmavsdk.so.3.3.3 -ldl 

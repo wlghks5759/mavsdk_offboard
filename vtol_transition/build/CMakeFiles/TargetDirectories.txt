@@ -1,0 +1,3 @@
+/home/yoo/PROJECT/mavsdk_offboard/vtol_transition/build/CMakeFiles/vtol_transition.dir
+/home/yoo/PROJECT/mavsdk_offboard/vtol_transition/build/CMakeFiles/edit_cache.dir
+/home/yoo/PROJECT/mavsdk_offboard/vtol_transition/build/CMakeFiles/rebuild_cache.dir

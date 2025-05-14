@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yoo/PROJECT/mavsdk_offboard/vtol_transition/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/mavsdk -g -std=gnu++17 -o CMakeFiles/vtol_transition.dir/vtol_transition.cpp.o -c /home/yoo/PROJECT/mavsdk_offboard/vtol_transition/vtol_transition.cpp",
+  "file": "/home/yoo/PROJECT/mavsdk_offboard/vtol_transition/vtol_transition.cpp"
+}
+]
