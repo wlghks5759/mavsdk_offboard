@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yoo/PROJECT/MAVSDK-main/examples/fly_mission/build",
+  "command": "/usr/bin/g++ -isystem /usr/include/mavsdk -g -std=gnu++17 -o CMakeFiles/fly_mission.dir/fly_mission.cpp.o -c /home/yoo/PROJECT/MAVSDK-main/examples/fly_mission/fly_mission.cpp",
+  "file": "/home/yoo/PROJECT/MAVSDK-main/examples/fly_mission/fly_mission.cpp"
+}
+]
